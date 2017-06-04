@@ -1,98 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-<channels>
-    <channels_info>
-      <title>[COLOR yellow]ADDON V"1"ESTES.NATURALEZA[/COLOR]</title>
-      <genre>DOCUMENTALES/genre>
-      <description>Lista de documentales</description>
-      <thumbnail>https://3.bp.blogspot.com/-lepa-AcxBj4/U7LiWERVpSI/AAAAAAABI2Q/oYsfLdBB6Ms/s1600/9378392-globo-del-mundo-de-dibujos-animados-renunciar-pulgares--hemisferio-occidental.jpg</thumbnail>
-      <fanart>http://img.webme.com/pic/a/akimismo/bannerdocumentales2.png</fanart>
-        </channels_info>
-<channels>
- 
-<channels>
- 
-<channel>
-      <name>[COLOR cyan][COLOR  lime].[/COLOR] Pesca[/COLOR]</name>
-  <thumbnail></thumbnail>
+<item>
+<title>[COLOR cyan][COLOR  lime].[/COLOR] Pesca[/COLOR]</title>
+<thumbnail></thumbnail>
 <fanart>http://blogdepesca.com/wp-content/uploads/2015/09/pesca-superficie.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/pesca.xml</externallink>
-</channel>
-  </channels>
+<externallink>https://raw.githubusercontent.com/Compartida/documentales/master/pesca.xml</externallink>
+</item>
  
-<channels>
- 
-<channel>
-      <name>[COLOR green][COLOR  lime].[/COLOR] Tornados[/COLOR]</name>
-  <thumbnail></thumbnail>
+<item>
+<title>[COLOR green][COLOR  lime].[/COLOR] Tornados[/COLOR]</title>
+<thumbnail></thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/1/1a/Dszpics1.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/tornados.xml</externallink>
-</channel>
-  </channels>
+<externallink>https://raw.githubusercontent.com/Compartida/documentales/master/tornados.xml</externallink>
+</item>
  
- 
- 
-<channels>
- 
-<channel>
-      <name>[COLOR red][COLOR  lime].[/COLOR] Volcanes[/COLOR]</name>
-  <thumbnail></thumbnail>
+<item>
+<title>[COLOR red][COLOR  lime].[/COLOR] Volcanes[/COLOR]</title>
+<thumbnail></thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/736x/c9/e0/e1/c9e0e13bc57b6ce39090fcb707765917.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/volcanes.xml</externallink>
-</channel>
-  </channels>
+<externallink>https://raw.githubusercontent.com/Compartida/documentales/master/volcanes.xml</externallink>
+</item>
  
- 
- 
-  <channels>
- 
-<channel>
-      <name>[COLOR orange][COLOR  lime].[/COLOR] Surf[/COLOR]</name>
-  <thumbnail></thumbnail>
+<item>
+<title>[COLOR orange][COLOR  lime].[/COLOR] Surf[/COLOR]</title>
+<thumbnail></thumbnail>
 <fanart>http://images.gofreedownload.net/surfboard-29532.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/surf.xml</externallink>
-</channel>
-  </channels>
-  
-  
-  
-  <channels>
+<externallink>https://raw.githubusercontent.com/Compartida/documentales/master/surf.xml</externallink>
+</item>
  
-<channel>
-      <name>[COLOR purple][COLOR  lime].[/COLOR] Animales[/COLOR]</name>
-  <thumbnail></thumbnail>
+<item>
+<title>[COLOR purple][COLOR  lime].[/COLOR] Animales[/COLOR]</title>
+<thumbnail></thumbnail>
 <fanart>http://www.lastwordonnothing.com/wp-content/uploads/2013/08/happy-dolphin.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/animales.xml</externallink>
-</channel>
-  </channels>
-  
-  
-  
-  <channels>
+<externallink>https://raw.githubusercontent.com/Compartida/documentales/master/animales.xml</externallink>
+</item>
  
-<channel>
-      <name>[COLOR white][COLOR  lime].[/COLOR] Real Madrid[/COLOR]</name>
-  <thumbnail></thumbnail>
+<item>
+<title>[COLOR white][COLOR  lime].[/COLOR] Real Madrid[/COLOR]</title>
+<thumbnail></thumbnail>
 <fanart>http://www.corazonblanco.com/media/galeria/44/6/1/4/6/t_real_madrid_escudo-8246416.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/realmadrid.xml</externallink>
-</channel>
-  </channels>
-
-  
-  
-   <channels>
+<externallink>https://raw.githubusercontent.com/Compartida/documentales/master/realmadrid.xml</externallink>
+</item>
  
-<channel>
-      <name>[COLOR blue][COLOR  lime].[/COLOR] Ovnis[/COLOR]</name>
-  <thumbnail></thumbnail>
+<item>
+<title>[COLOR blue][COLOR  lime].[/COLOR] Ovnis[/COLOR]</title>
+<thumbnail></thumbnail>
 <fanart>http://cdn3.collective-evolution.com/assets/uploads/2013/11/alien-abduction2-759x500.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/ovnis.xml</externallink>
-</channel>
-  </channels>
+<externallink>https://raw.githubusercontent.com/Compartida/documentales/master/ovnis.xml</externallink>
+</item>

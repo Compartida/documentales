@@ -83,3 +83,16 @@
    <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/realmadrid.xml</externallink>
 </channel>
   </channels>
+
+  
+  
+   <channels>
+ 
+<channel>
+      <name>[COLOR blue][COLOR  lime].[/COLOR] Ovnis[/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://cdn3.collective-evolution.com/assets/uploads/2013/11/alien-abduction2-759x500.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/ovnis.xml</externallink>
+</channel>
+  </channels>

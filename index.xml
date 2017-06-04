@@ -47,19 +47,6 @@
  
  
  
-<channels>
- 
-<channel>
-      <name>[COLOR blue][COLOR  lime].[/COLOR] Ovnis[/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart>https://pixabay.com/p-1991704/?no_redirect</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/homnis.xml</externallink>
-</channel>
-  </channels>
-  
- 
- 
   <channels>
  
 <channel>

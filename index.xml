@@ -83,3 +83,16 @@
    <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/animales.xml</externallink>
 </channel>
   </channels>
+  
+  
+  
+  <channels>
+ 
+<channel>
+      <name>[COLOR white][COLOR  lime]ՠ [/COLOR] real madrid[/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/736x/c9/e0/e1/c9e0e13bc57b6ce39090fcb707765917.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/realmadrid.xml</externallink>
+</channel>
+  </channels>

@@ -57,3 +57,17 @@
    <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/homnis.xml</externallink>
 </channel>
   </channels>
+  
+ 
+ 
+  <channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]ՠ [/COLOR] surf[/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>https://pixabay.com/p-1991704/?no_redirect</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/surf.xml</externallink>
+</channel>
+  </channels>
+  

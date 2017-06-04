@@ -71,3 +71,15 @@
 </channel>
   </channels>
   
+  
+  
+  <channels>
+ 
+<channel>
+      <name>[COLOR purple][COLOR  lime]x95 [/COLOR] animales[/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>https://pixabay.com/p-1991704/?no_redirect</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/animales.xml</externallink>
+</channel>
+  </channels>

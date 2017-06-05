@@ -73,9 +73,17 @@
 </item>
 
 <item>
-<title>[COLOR red][COLOR  yellow].[/COLOR] Felix rodriguez de la fuente[/COLOR]</title>
+<title>[COLOR blue][COLOR  yellow].[/COLOR] Felix rodriguez de la fuente[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart>http://cloud10.todocoleccion.online/cine-folletos-mano/tc/2015/12/12/11/53264772.jpg?size=230x230&crop=true</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Compartida/documentales/master/felixrodriguezdelafuente.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR green][COLOR  yellow].[/COLOR] Jacques Cousteau [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart>https://www.biografiasyvidas.com/biografia/c/fotos/costeau_jacques.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Compartida/documentales/master/JacquesCousteau.xml</externallink>
 </item>

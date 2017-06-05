@@ -1,15 +1,8 @@
 
-top:"Disfruta de los Mejores Documentales" src="http://copiapop.com/golden430/topgear-53661/list,1,6";
-super:"Disfruta de los Mejores Documentales" src="http://copiapop.com/Catoal/superestructuras-80213/list,1,1";
-mega:"Disfruta de los Mejores Documentales" src="http://copiapop.com/Catoal/megafactorias-74376/list,1,19";
+
 tierra:"El Hombre y la Tierra" src="http://copiapop.com/Koba1994/el-hombre-y-la-tierra-documental-55243/list,1,6";
 tierra:"El Hombre y la Tierra Fauna Iberica" src="http://copiapop.com/habelote/el-hombre-y-la-tierra-fauna-iberica-43935/list,1,2";
-mundo:"Disfruta de los Mejores Documentales" src="http://copiapop.com/Koba1994/el-mundo-en-guerra-documental-53456/list,1,6";
-II:"Disfruta de los Mejores Documentales" src="http://copiapop.com/deckardbcn/ii-guerra-mundial-los-archivos-perdidos-37245/list,1,6";
-docu:"Disfruta de los Mejores Documentales" src="http://copiapop.com/Koba1994/documentales-53530/list,1,4";
-planeta:"Documentales de Viajes" src="http://copiapop.com/Catoal/planeta-finito-documentales-de-viajes-91653/list,1,10";
-fron:"Control de Duanas" src="http://copiapop.com/chicho306/control-de-fronteras-espana-75804/list,1,10";
-brico:"Bricomanía" src="http://copiapop.com/manzn/bricomania-84673/list,1,11";
+
 
 
 

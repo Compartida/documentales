@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>El Hombre Y La Tierra</title>
+<title>Águilas, Reinas de los cielos</title>
 <link>$doregex[makelist2]</link>
 <regex>
   <name>makelist2</name>
@@ -11,7 +11,7 @@
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VqM2nfNkL._AC_UL320_SR224,320_.jpg</thumbnail>
 		<fanart>http://1.bp.blogspot.com/-kRWpV9TUtYg/UmOfh0wfoYI/AAAAAAAABW8/AMKcWhHGi2Q/s1600/1.jpg</fanart>
         ]]></listrepeat>
-<expres>tierra:"(.*?)" src="(.*?)"</expres>
+<expres>doc:"(.*?)" src="(.*?)"</expres>
 <page>https://raw.githubusercontent.com/Carlesto/Documentales/master/listadocumentales/docu.txt</page>
 <cookieJar></cookieJar>
 </regex>
@@ -63,6 +63,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VqM2nfNkL._AC_UL320_SR224,320_.jpg</thumbnail>
+<thumbnail>https://images5.alphacoders.com/705/thumb-1920-705424.png</thumbnail>
 		<fanart>http://1.bp.blogspot.com/-kRWpV9TUtYg/UmOfh0wfoYI/AAAAAAAABW8/AMKcWhHGi2Q/s1600/1.jpg</fanart>
 </item>		

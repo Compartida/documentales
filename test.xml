@@ -9,7 +9,7 @@
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VqM2nfNkL._AC_UL320_SR224,320_.jpg</thumbnail>
 		<fanart>http://1.bp.blogspot.com/-kRWpV9TUtYg/UmOfh0wfoYI/AAAAAAAABW8/AMKcWhHGi2Q/s1600/1.jpg</fanart>
         ]]></listrepeat>
-<expres>tierra:"(.*?)" src="(.*?)"</expres>
+<expres>test:"(.*?)" src="(.*?)"</expres>
 <page>https://raw.githubusercontent.com/Carlesto/Documentales/master/listadocumentales/docu.txt</page>
 <cookieJar></cookieJar>
 </regex>
